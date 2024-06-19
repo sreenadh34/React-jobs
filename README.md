@@ -1,3 +1,14 @@
+Front-end for a Job Listing website.
+
+Concepts =
+   ->components
+   ->props
+   ->state hooks
+   ->data fetching
+   etc...
+          
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
